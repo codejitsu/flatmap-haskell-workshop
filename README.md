@@ -27,3 +27,9 @@ e.g. `runhaskell Tests/GettingStartedTests.hs`.
 
 See `CheatSheet.hs` for examples of Haskell syntax and the use of some common
 functions.
+
+# Next Steps
+
+- http://www.cis.upenn.edu/~cis194/lectures.html
+- https://github.com/NICTA/course
+- http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours
