@@ -12,7 +12,7 @@ import qualified Tests.FunctionsTests                 as FU
 import qualified Tests.PartialApplicationTests        as PA
 import qualified Tests.RecursionTests                 as RE
 import qualified Tests.RecursionSchemesTests          as RS
-import qualified Tests.CreditCardNumberValidatorTests as CV
+import qualified Tests.BinTreeTests                   as BT
 import qualified Tests.PatternMatchingTests           as PM
 import qualified Tests.HigherOrderFunctionsTests      as HF
 import qualified Tests.ProjectEulerTests              as PE
@@ -27,7 +27,7 @@ main = hspec $ do
     PA.tests
     RE.tests
     RS.tests
-    CV.tests
+    BT.tests
     PM.tests
     HF.tests
     PE.tests
