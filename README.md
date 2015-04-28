@@ -33,3 +33,18 @@ functions.
 - http://www.cis.upenn.edu/~cis194/lectures.html
 - https://github.com/NICTA/course
 - http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours
+
+# Learning Haskell
+
+## Books
+
+- [*Learn You a Haskell for Great Good!*](http://learnyouahaskell.com/chapters) (2011)
+- [Maybe Haskell](https://gumroad.com/l/maybe-haskell/) (2015)
+- [*Real World Haskell*](http://book.realworldhaskell.org) (2008)
+- [*Programming in Haskell*](http://www.amazon.com/Programming-Haskell-Graham-Hutton/dp/0521692695/) (2007)
+- [*Parallel and Concurrent Programming in Haskell*](http://chimera.labs.oreilly.com/books/1230000000929/index.html) (2013)
+
+## Web pages
+
+- `/r/haskell`: <http://haskell.reddit.com>
+- *School of Haskell*: <https://www.fpcomplete.com/school/>
